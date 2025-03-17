@@ -1,0 +1,1 @@
+# RSSL-MTU-Solar-Panel-Snow-Coverage

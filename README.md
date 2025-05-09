@@ -9,3 +9,18 @@
 All models' checkpoints can be found in the link below:
 https://drive.google.com/drive/folders/1PbRlxzXpyjRXGPyuF_e6yhEZ73NULmgT?usp=sharing
 
+***
+
+Here, you can find several demos of real-time snow coverage percentage detection using the Otsu thresholding method. The models showcased have been trained on our newly augmented dataset available in this repo.
+
+
+
+https://github.com/user-attachments/assets/dc546bb5-2d1d-489f-9e24-4fbf14a2d3d3
+
+
+
+
+
+https://github.com/user-attachments/assets/1ff4ff90-2fc9-4db5-8358-ec205a0f1605
+
+

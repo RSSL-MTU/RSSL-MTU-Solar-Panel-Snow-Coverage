@@ -15,12 +15,24 @@ Here, you can find several demos of real-time snow coverage percentage detection
 
 
 
-https://github.com/user-attachments/assets/dc546bb5-2d1d-489f-9e24-4fbf14a2d3d3
+
+
+
+
+https://github.com/user-attachments/assets/ca8f2344-1672-4dd9-813d-9a8f77060ae8
 
 
 
 
 
-https://github.com/user-attachments/assets/1ff4ff90-2fc9-4db5-8358-ec205a0f1605
+
+
+
+https://github.com/user-attachments/assets/0a2075fc-fac8-411e-ac6f-8bec2928a26b
+
+
+
+
+
 
 
